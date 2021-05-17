@@ -1229,12 +1229,6 @@
     "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
   },
   "networks": {
-    "5777": {
-      "events": {},
-      "links": {},
-      "address": "0xCF4f0a54861C57294B9C6DAC90499ba8d34Be270",
-      "transactionHash": "0x02a58594127b484f45735b9a6bd64c19780815bb6089a31be8b09f6d05f9a171"
-    }
   },
   "schemaVersion": "3.3.4",
   "updatedAt": "2021-05-17T11:24:35.542Z",
